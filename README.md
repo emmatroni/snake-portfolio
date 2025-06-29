@@ -10,11 +10,11 @@ A web-based portfolio that uses game interaction to present projects. Users navi
 
 ## Technical Implementation
 
-### Core Technologies
+### Technologies
 - **p5.js**: Graphics rendering and animation framework
 - **Hammer.js**: Touch gesture recognition for mobile devices
 - **Vanilla JavaScript**: Game logic and DOM manipulation
-- **CSS3**: Responsive styling
+- **CSS3**: Styling
 - **Webflow**: Content hosting and CMS template pages.
 
 ### Key Features

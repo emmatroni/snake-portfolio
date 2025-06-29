@@ -1,6 +1,6 @@
 # Snake Portfolio
 
-Interactive portfolio implementation using Snake game mechanics. Built as part of Communication Design coursework at Politecnico di Milano.
+Interactive portfolio implementation using Snake game mechanics. Built as part of Communication Design coursework for Laboratorio di Web e Digital Design at Politecnico di Milano.
 
 ## Overview
 
